@@ -1,0 +1,13 @@
+C:\Users\mukpahwa\source\repos\TriangleAssignment\TriangleAssignment\bin\Debug\netcoreapp3.1\TriangleAssignment.exe
+C:\Users\mukpahwa\source\repos\TriangleAssignment\TriangleAssignment\bin\Debug\netcoreapp3.1\TriangleAssignment.deps.json
+C:\Users\mukpahwa\source\repos\TriangleAssignment\TriangleAssignment\bin\Debug\netcoreapp3.1\TriangleAssignment.runtimeconfig.json
+C:\Users\mukpahwa\source\repos\TriangleAssignment\TriangleAssignment\bin\Debug\netcoreapp3.1\TriangleAssignment.runtimeconfig.dev.json
+C:\Users\mukpahwa\source\repos\TriangleAssignment\TriangleAssignment\bin\Debug\netcoreapp3.1\TriangleAssignment.dll
+C:\Users\mukpahwa\source\repos\TriangleAssignment\TriangleAssignment\bin\Debug\netcoreapp3.1\TriangleAssignment.pdb
+C:\Users\mukpahwa\source\repos\TriangleAssignment\TriangleAssignment\obj\Debug\netcoreapp3.1\TriangleAssignment.csproj.AssemblyReference.cache
+C:\Users\mukpahwa\source\repos\TriangleAssignment\TriangleAssignment\obj\Debug\netcoreapp3.1\TriangleAssignment.AssemblyInfoInputs.cache
+C:\Users\mukpahwa\source\repos\TriangleAssignment\TriangleAssignment\obj\Debug\netcoreapp3.1\TriangleAssignment.AssemblyInfo.cs
+C:\Users\mukpahwa\source\repos\TriangleAssignment\TriangleAssignment\obj\Debug\netcoreapp3.1\TriangleAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mukpahwa\source\repos\TriangleAssignment\TriangleAssignment\obj\Debug\netcoreapp3.1\TriangleAssignment.dll
+C:\Users\mukpahwa\source\repos\TriangleAssignment\TriangleAssignment\obj\Debug\netcoreapp3.1\TriangleAssignment.pdb
+C:\Users\mukpahwa\source\repos\TriangleAssignment\TriangleAssignment\obj\Debug\netcoreapp3.1\TriangleAssignment.genruntimeconfig.cache
